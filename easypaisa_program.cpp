@@ -27,7 +27,7 @@ int main()
         cin>>status;
 	    cout<<"You have 5000 Rupees!"; 
 	    break;
-	case 4:
+    case 4:
 	    cout<<"press 4 to exit"; 
 	    cin>>exit;
 	    cout<<"Exit!"; 
